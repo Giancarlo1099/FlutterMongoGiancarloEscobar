@@ -1,0 +1,22 @@
+[{
+  "_id": {
+    "$oid": "622b80e804f3550fd265c32d"
+  },
+  "nombre": "ibuprofeno",
+  "aplicacion": "oral",
+  "valor": "1000"
+},{
+  "_id": {
+    "$oid": "622b80e804f3550fd265c32e"
+  },
+  "nombre": "paracetamol",
+  "aplicacion": "oral",
+  "valor": "2000"
+},{
+  "_id": {
+    "$oid": "622b80e804f3550fd265c32f"
+  },
+  "nombre": "acetaminofen",
+  "aplicacion": "oral",
+  "valor": "500"
+}]

@@ -1,0 +1,22 @@
+[{
+  "_id": {
+    "$oid": "622b75a504f3550fd265c2ee"
+  },
+  "tratamiento": "ortodoncia",
+  "costo": "$2.500.000",
+  "duracion": "1 año"
+},{
+  "_id": {
+    "$oid": "622b75f204f3550fd265c2f0"
+  },
+  "tratamiento": "blanqueamiento",
+  "costo": "$400.000",
+  "duracion": "1 dia"
+},{
+  "_id": {
+    "$oid": "622b768904f3550fd265c2f2"
+  },
+  "tratamiento": "calsas dentales",
+  "costo": "$30.000",
+  "duracion": "7 semana"
+}]

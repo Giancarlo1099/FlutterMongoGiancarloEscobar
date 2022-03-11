@@ -1,0 +1,19 @@
+[{
+  "_id": {
+    "$oid": "622b7e7804f3550fd265c319"
+  },
+  "nombre": "ORTODONCIA",
+  "valor": "2500000"
+},{
+  "_id": {
+    "$oid": "622b7e7804f3550fd265c31a"
+  },
+  "nombre": "BLANQUEAMIENTO DENTAL",
+  "valor": "120000"
+},{
+  "_id": {
+    "$oid": "622b7e7804f3550fd265c31b"
+  },
+  "nombre": "CIRUGIA DE CORDALAS",
+  "valor": "400000"
+}]

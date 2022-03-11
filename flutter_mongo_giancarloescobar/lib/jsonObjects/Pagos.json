@@ -1,0 +1,22 @@
+[{
+  "_id": {
+    "$oid": "622b79c104f3550fd265c2fc"
+  },
+  "tratamiento": "ORTODONCIA",
+  "fecha de pago": "25/02/2022",
+  "valor": "78000"
+},{
+  "_id": {
+    "$oid": "622b79c104f3550fd265c2fd"
+  },
+  "tratamiento": "BLANQUEAMIENTO DENTAL",
+  "fecha de pago": "25/02/2022",
+  "valor": "12000"
+},{
+  "_id": {
+    "$oid": "622b79c104f3550fd265c2fe"
+  },
+  "tratamiento": "CIRUGIA DE CORDALAS",
+  "fecha de pago": "25/02/2022",
+  "valor": "67000"
+}]

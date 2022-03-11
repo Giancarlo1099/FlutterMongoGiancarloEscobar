@@ -1,0 +1,22 @@
+[{
+  "_id": {
+    "$oid": "622b78ab04f3550fd265c2f6"
+  },
+  "fecha": "23/10/2022",
+  "hora": "03:20PM",
+  "doctor": "BENITO CAMELO"
+},{
+  "_id": {
+    "$oid": "622b78ab04f3550fd265c2f7"
+  },
+  "fecha": "24/10/2022",
+  "hora": "04:20PM",
+  "doctor": "ROSA TERAN"
+},{
+  "_id": {
+    "$oid": "622b78ab04f3550fd265c2f8"
+  },
+  "fecha": "25/10/2022",
+  "hora": "05:20PM",
+  "doctor": "LUIS CARMELO"
+}]
